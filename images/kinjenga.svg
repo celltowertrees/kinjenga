@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="158px" height="50px" viewBox="0 0 158 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" fill="#000000">
+            <path d="M0.39014228,21.7097774 C0.5174954,21.4802697 1.005405,20.7138515 2.41113009,19.4759592 C4.42540245,17.7021832 7.85902677,17.0309846 9.98291766,17.0387522 C12.106851,17.0465623 28.0024297,17.178824 32.6268713,17.2705923 C37.7253642,17.3717835 39.6021676,14.4530266 40.5700542,12.7898649 C41.5379409,11.1266607 48,0.0224043295 48,0.0224043295 C48,0.0224043295 23.4261744,-0.0131229749 17.2831213,0.00529859035 C13.1602842,0.0176928232 11.3717445,2.29589713 9.79182819,5.01078592 C8.94591446,6.46439174 1.36976873,19.4665527 0.0122735514,21.7964138 C-0.023214984,21.8573349 0.0108434856,21.758344 0.213130339,21.7647597 C0.116055726,21.8456347 0,21.9871237 0,21.9871237 C0,21.9871237 0.877415258,21.8866116 3.02953865,22.6038217 C5.57598309,23.4524871 7.88306684,26.0798947 8.94443915,27.9192497 C10.0058115,29.7585624 16.6042782,41.3557442 18.8505665,45.3981317 C21.3270877,49.854962 24.7942514,50 26.7188591,50 L41.4931616,50 C41.4931616,50 30.4780275,30.8784153 27.341545,25.6572174 C25.2188003,22.1235876 22.38846,21.7097391 19.246798,21.7097391 C17.580364,21.7097391 3.27820089,21.7111139 0.39014228,21.7097774 Z" id="logo-kinja-copy-8" fill-rule="nonzero"></path>
+            <text id="KINJ" font-family="ProximaNovaCond-Semibold, Proxima Nova Condensed" font-size="29" font-style="condensed" font-weight="500">
+                <tspan x="46" y="36">KINJ</tspan>
+            </text>
+            <text id="NGA" font-family="ProximaNovaCond-Semibold, Proxima Nova Condensed" font-size="29" font-style="condensed" font-weight="500" letter-spacing="-0.483333409">
+                <tspan x="110" y="36">NGA</tspan>
+            </text>
+            <rect id="Rectangle" x="99" y="17" width="10" height="3.5"></rect>
+            <rect id="Rectangle-Copy" x="99" y="25" width="10" height="3.5"></rect>
+            <rect id="Rectangle-Copy-3" x="99" y="32.5" width="10" height="3.5"></rect>
+            <rect id="Rectangle" x="99" y="21" width="4" height="3"></rect>
+            <rect id="Rectangle-Copy-2" x="99" y="29" width="4" height="3"></rect>
+        </g>
+    </g>
+</svg>
