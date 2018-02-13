@@ -26645,7 +26645,7 @@
     <div class="footer-subscribe">
       <div class="js_newsletter-btn--subscribe js_subscribe-region-footer newsletter-btn--subscribe newsletter-btn--subscribe__nodismiss"
         data-sourceid="footer">
-        <form class="newsletter-subscribe-wrapper newsletter-btn open">
+        <form id="subscribe-form" class="newsletter-subscribe-wrapper newsletter-btn open" method="post" action="https://tinyletter.com/nycdatajobs">
           <div class="newsletter-subscribe newsletter-subscribe--email">
             <div class="newsletter-subscribe__logo">
               <svg class="gmg-logo gmg-logo--jezebel" viewBox="0 0 220 44">
@@ -26655,33 +26655,12 @@
             <div class="newsletter-subscribe__copy">Want Josh’s email newsletter?</div>
             <div class="newsletter-subscribe__cta">
               <label class="field">
-                <input type="text" placeholder="Your email address" value="" class="email__input text-input js_email-address js_input change-color">
+                <input type="email" name="email" placeholder="Your email address" value="" class="email__input text-input js_email-address js_input change-color">
                 <span class="js_fielddescription fielddescription">Email Address</span>
-                <div>
-                  <small data-property="email" data-reason="minLength" class="warningmessage hide">Please enter an email address that is at least 7 characters long.</small>
-                  <small data-property="email" data-reason="maxLength"
-                    class="warningmessage hide">Please enter an email address that is no longer than 63 characters.</small>
-                  <small data-property="email"
-                    data-reason="emailFormat" class="warningmessage hide">Please enter a valid email address.</small>
-                  <small data-property="email" data-reason="ajax" class="warningmessage hide">Network error, please try again.
-                    <a class="js_resend">Resend</a>
-                  </small>
-                  <small data-property="email" data-reason="unauthorized" class="warningmessage hide">You are not authorized to make changes on behalf of this user.</small>
-                  <small data-property="email" data-reason="alreadyused"
-                    class="warningmessage hide">This email address is already associated with this account. Please delete it or use a different email address.</small>
-                  <small
-                    data-property="email" data-reason="alreadysubscribed" class="warningmessage hide">This email address is already subscribed, please enter another.</small>
-                    <small data-property="email" data-reason="nolistselected"
-                      class="warningmessage hide">You need to select at least one of our lists to subscribe.</small>
-                    <small data-property="email" data-reason="required"
-                      class="warningmessage hide">Please enter a valid email address.</small>
-                    <small class="warningmessage hide" data-property="email" data-reason="network">Network error, please try again.</small>
-                    <small class="warningmessage hide" data-property="email" data-reason="salesforce">An error occurred during sign up</small>
-                </div>
               </label>
             </div>
             <div class="newsletter-subscribe__button">
-              <button class="button small js_submit">Subscribe</button>
+              <button class="button small js_submit" type="submit">Subscribe</button>
             </div>
             <div class="newsletter-subscribe__close js_close-subscribe">
               <span>No, thanks</span>
